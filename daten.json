@@ -1,0 +1,152 @@
+{
+ "firma": "Agrar Gahry",
+ "stelle": "Herdenmanager (m/w/d)",
+ "ort": "Wiesengrund",
+ "plz": "03149",
+ "branche": "landwirtschaft",
+ "farbe_primary": "#1E6135",
+ "farbe_secondary": "#8FC640",
+ "region_badge": "Wiesengrund & Umgebung",
+ "benefit_top": "Unbefristet & Jahresprämie",
+ "benefits": [
+  "Unbefristeter Arbeitsvertrag in Vollzeit",
+  "Jahresprämie",
+  "Vermögenswirksame Leistungen",
+  "Hilfe bei der Wohnungssuche",
+  "Firmenhandy",
+  "Flache Hierarchien"
+ ],
+ "aufgaben": [
+  "Du verantwortest eigenständig das Herdenmanagement für rund 850 Milchkühe und ihre Nachzucht",
+  "Du steuerst das Fruchtbarkeitsmanagement – einschließlich Besamung",
+  "Du übernimmst die Klauenpflege und behandelst akute Lahmheiten",
+  "Du pflegst die Herdendaten, dokumentierst und wertest aus",
+  "Du organisierst und koordinierst die Arbeiten im Herdenbereich – gemeinsam mit deinem Team"
+ ],
+ "anforderung": "Eine abgeschlossene Ausbildung oder ein Studium im Agrarsektor, praktische Erfahrung in der Landwirtschaft und Führungskompetenz. Dazu Freude an der Arbeit mit Tieren, gute Selbstorganisation und eine sorgfältige, konsequente Arbeitsweise – im Team und eigenständig.",
+ "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+ "fachrichtungen": [
+  {
+   "label": "Milchviehhaltung",
+   "icon": "🐄",
+   "qualifikationen": [
+    {
+     "label": "Herdenmanagement mit Führung",
+     "icon": "🧭"
+    },
+    {
+     "label": "Ausbildung im Agrarsektor",
+     "icon": "📘"
+    },
+    {
+     "label": "Studium Agrar / Landwirtschaft",
+     "icon": "🎓"
+    },
+    {
+     "label": "Erfahren ohne Abschluss",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Andere Tierhaltung",
+   "icon": "🐖",
+   "qualifikationen": [
+    {
+     "label": "Herdenmanagement mit Führung",
+     "icon": "🧭"
+    },
+    {
+     "label": "Ausbildung im Agrarsektor",
+     "icon": "📘"
+    },
+    {
+     "label": "Studium Agrar / Landwirtschaft",
+     "icon": "🎓"
+    },
+    {
+     "label": "Erfahren ohne Abschluss",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Ackerbau / Landwirtschaft",
+   "icon": "🚜",
+   "qualifikationen": [
+    {
+     "label": "Herdenmanagement mit Führung",
+     "icon": "🧭"
+    },
+    {
+     "label": "Ausbildung im Agrarsektor",
+     "icon": "📘"
+    },
+    {
+     "label": "Studium Agrar / Landwirtschaft",
+     "icon": "🎓"
+    },
+    {
+     "label": "Erfahren ohne Abschluss",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Anderer Bereich",
+   "icon": "🔄",
+   "qualifikationen": [
+    {
+     "label": "Ausbildung in anderem Beruf",
+     "icon": "📘"
+    },
+    {
+     "label": "Studium in anderem Fach",
+     "icon": "🎓"
+    },
+    {
+     "label": "Erfahren ohne Abschluss",
+     "icon": "💪"
+    }
+   ]
+  }
+ ],
+ "ueber": {
+  "fakten": [
+   {
+    "zahl": "850",
+    "label": "Milchkühe"
+   },
+   {
+    "zahl": "2.350",
+    "label": "Hektar"
+   },
+   {
+    "zahl": "35",
+    "label": "Mitarbeiter"
+   }
+  ],
+  "text": "Die Agrargenossenschaft Gahry ist ein regional verankerter, vielseitiger Landwirtschaftsbetrieb im Süden Brandenburgs, mitten in der Lausitz – gegründet 1991. Auf rund 2.350 Hektar Acker- und Grünland, mit Milchkühen und Nachzucht bei hohem Tierwohlstandard sowie Biogas und Photovoltaik verbindet der Betrieb traditionelle Werte mit moderner Technik: von GPS-gesteuerter Landtechnik bis zur digitalen Stallüberwachung."
+ },
+ "kunde_tab": "43 Agrargenossenschaft Gahry",
+ "quelle": "https://ag-gahry.green-careers.de",
+ "logo": "logo.png",
+ "karte": {
+  "bild": "img/karte.jpg",
+  "label": "Wiesengrund (03149)"
+ },
+ "hero_bild": "img/hero-stall.jpg",
+ "bilder": [
+  "img/f1-milchviehstall.jpg",
+  "img/f2-kuh-fressgitter.jpg",
+  "img/f3-herde-kuhbuerste.jpg",
+  "img/f4-nachzucht.jpg",
+  "img/f5-laufhof.jpg",
+  "img/f6-hof-luftbild.jpg",
+  "img/f7-betrieb-luftbild.jpg",
+  "img/f8-team-technik.jpg"
+ ],
+ "meta_geo": [
+  "Gahryer Hauptstraße 1a, 03149 Wiesengrund"
+ ]
+}
